@@ -6,15 +6,7 @@ description: >-
 
 # Matatalab Coding Set
 
-There are three type of Matatalab robot sets
-
-1. Lite \(Coming soon - Summer 2019\)
-2. Coding set 
-3. Coding set pro  - this set includes coding set with Art and Music add-on
-
-The add-on pack available separately to expand coding
-
-
+## Video
 
 {% embed url="https://youtu.be/0\_xPiDLkDFc" caption="Matatalab Coding set" %}
 
@@ -30,7 +22,7 @@ We know kids naturally play and learn by using their hands, eyes, and ears. This
 
 Kids use their imagination to create infinite possibilities using coding blocks, by controlling a robot car through coding algorithms. Kids receive instant feedback, and quickly learn that coding is simple. Starting young and equipped with an understanding of fundamental concepts, kids at a later age will be able to grasp more abstract concepts of real programming at school and can learn without fear.
 
-**Get to Know the Product Functions​**![](https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/v1/1216473/%E7%94%BB%E6%9D%BF_1_nfabml.png)
+## **Get to Know**
 
 **MatataBot**
 
@@ -84,6 +76,18 @@ Take little MatataBot on an adventure through the nature map. Use the step by st
    5. [Matata soccer map](https://matatalab.com/download/604/)
 
 {% file src="../.gitbook/assets/copy-of-soccer-baby-competition-rules.docx" caption="Soccer competition rules " %}
+
+## Products
+
+{% embed url="https://www.pakronics.com.au/products/coding-set-coding-like-abc-by-matatalabs" caption="Matatalab coding set" %}
+
+{% embed url="https://www.pakronics.com.au/products/coding-set-pro-coding-like-abc-by-matatalabs" caption="Matatalab Pro coding set - includes artist and music addon" %}
+
+{% embed url="https://www.pakronics.com.au/products/matatalab-musician-add-on" %}
+
+{% embed url="https://www.pakronics.com.au/products/artist-add-on-for-coding-set-by-matatalab" %}
+
+
 
 
 
