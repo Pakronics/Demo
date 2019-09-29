@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Digital Tool Kit \(DTK\)](README.md)
+* [Digital Tech Tool Kit \(DTTK\) for Schools](README.md)
 
 ## Early Primary
 

@@ -1,2 +1,2 @@
-# Digital Tool Kit \(DTK\)
+# Digital Tech Tool Kit \(DTTK\) for Schools
 
