@@ -83,9 +83,15 @@ Take little MatataBot on an adventure through the nature map. Use the step by st
 
 {% embed url="https://www.pakronics.com.au/products/coding-set-pro-coding-like-abc-by-matatalabs" caption="Matatalab Pro coding set - includes artist and music addon" %}
 
+{% embed url="https://www.pakronics.com.au/products/matatalab-lite-pakr-a0261" %}
+
 {% embed url="https://www.pakronics.com.au/products/matatalab-musician-add-on" %}
 
 {% embed url="https://www.pakronics.com.au/products/artist-add-on-for-coding-set-by-matatalab" %}
+
+{% embed url="https://www.pakronics.com.au/products/matatalab-sensor-add-on-pakr-a0262" %}
+
+{% embed url="https://www.pakronics.com.au/products/matatalab-animation-add-on-pakr-a0263" %}
 
 
 
